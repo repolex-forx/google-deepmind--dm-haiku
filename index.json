@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "dm-haiku",
+  "versions": [
+    {
+      "commit": "4ec60bb58723d5db5aa11c12b3fc6374b5b01726",
+      "tag": "",
+      "parsed_at": "2026-11-06T07:48:59.807607+00:00"
+    }
+  ]
+}
